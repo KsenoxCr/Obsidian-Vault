@@ -1,0 +1,18 @@
+{
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-import-json:import-json": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "["
+    }
+  ]
+}
