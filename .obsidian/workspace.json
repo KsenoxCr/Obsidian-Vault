@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Github token.md",
+                "file": "Zettelkasten/Test Note for git.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Github token.md",
+                "file": "Zettelkasten/Test Note for git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Github token.md",
+                "file": "Zettelkasten/Test Note for git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Github token.md"
+                "file": "Zettelkasten/Test Note for git.md"
               }
             }
           },
@@ -293,8 +293,9 @@
   },
   "active": "0a42e7fc0734286d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-12 18.29.33.excalidraw.md",
     "Zettelkasten/Github token.md",
+    "Zettelkasten/Test Note for git.md",
+    "Excalidraw/Drawing 2024-05-12 18.29.33.excalidraw.md",
     "Remote-Vault",
     "Files/Pasted image 20240512181420.png",
     "Zettelkasten/False Breakout Box Method.md",
@@ -331,7 +332,6 @@
     "Zettelkasten/Day 142.md",
     "Zettelkasten/Things to Backtest.md",
     "Zettelkasten/Trading Thoughs.md",
-    "Zettelkasten/Iphone not detected by pc.md",
     "Borrowing",
     "Excalidraw",
     "Show the solution",
