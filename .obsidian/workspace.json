@@ -261,8 +261,17 @@
                 "file": "Zettelkasten/Github token.md"
               }
             }
+          },
+          {
+            "id": "52de3b612f0a7e0c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -284,6 +293,8 @@
   },
   "active": "0a42e7fc0734286d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-12 18.29.33.excalidraw.md",
+    "Zettelkasten/Github token.md",
     "Remote-Vault",
     "Files/Pasted image 20240512181420.png",
     "Zettelkasten/False Breakout Box Method.md",
@@ -291,7 +302,6 @@
     "Files/Pasted image 20240512181058.png",
     "Files/Pasted image 20240512180948.png",
     "Remote-Zettelkasten",
-    "Zettelkasten/Github token.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten/Defi 10 - Tokenomics Advanced.md",
     "Zettelkasten/Decentralized.md",
@@ -329,7 +339,6 @@
     "Zettelkasten/Ksenox_ Backtesting Sheet Solana 1.csv",
     "Zettelkasten/Ksenox_ Backtesting Sheet 2 1.csv",
     "Zettelkasten/Copy of My Goal Crusher_ Week 3 1.csv",
-    "Zettelkasten/2024 Crypto Long Holds 1.csv",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
